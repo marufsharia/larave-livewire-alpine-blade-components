@@ -9,7 +9,7 @@ section: content
 
 EasyMDE Markdown text editor powered by ALpineJS and Laravel Blade View Components.
 
-![EasyMDE](/assets/img/components/easymde.png)
+![EasyMDE](../assets/img/components/easymde.png)
 
 ### Usage
 
