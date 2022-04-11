@@ -9,7 +9,7 @@ section: content
 
 Trix text editor powered by ALpineJS and Laravel Blade View Components.
 
-![EasyMDE](/assets/img/components/trix.png)
+![EasyMDE](../assets/img/components/trix.png)
 
 ### Usage
 
