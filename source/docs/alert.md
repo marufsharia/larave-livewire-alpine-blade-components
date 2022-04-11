@@ -9,7 +9,7 @@ section: content
 
 Alert box powered by ALpineJS and Laravel Blade View Components.
 
-![Alert](/assets/img/components/alert.png)
+![Alert](../assets/img/components/alert.png)
 
 ### Usage
 
