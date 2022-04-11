@@ -9,7 +9,7 @@ section: content
 
 Login Page Example with Laravel Blade View Components.
 
-![Login Page](/assets/img/components/login-page.png)
+![Login Page](../assets/img/components/login-page.png)
 
 ### Usage
 
