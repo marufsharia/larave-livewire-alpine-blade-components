@@ -11,7 +11,7 @@ Simple read more/read less component powered by Blade Components.
 
 Here is an example:
 
-![Read-more-read-less](/assets/img/components/readmore.png)
+![Read-more-read-less](../assets/img/components/readmore.png)
 
 ### Usage
 
