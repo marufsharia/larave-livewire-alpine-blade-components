@@ -17,7 +17,7 @@ Available features are:
 - Badge / Date Format / Data width
 
 
-![Datatable](/assets/img/components/datatable.png)
+![Datatable](../assets/img/components/datatable.png)
 
 ### Route
 
