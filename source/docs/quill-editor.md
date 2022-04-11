@@ -9,7 +9,7 @@ section: content
 
 Quill text editor powered by ALpineJS and Laravel Blade View Components. It supports file uploading also.
 
-![Quill Editor](/assets/img/components/quill.png)
+![Quill Editor](../assets/img/components/quill.png)
 
 
 ### Usage
