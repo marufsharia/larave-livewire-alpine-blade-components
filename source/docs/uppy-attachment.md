@@ -11,7 +11,7 @@ Simple File Upload component powered by AlpineJS, Blade Component and Uppy.
 
 [Uppy - Sleek, modular open source JavaScript file uploader](https://uppy.io/).
 
-![Uppy Attachment](/assets/img/components/uppy-attachment.png)
+![Uppy Attachment](../assets/img/components/uppy-attachment.png)
 
 ### Usage
 
