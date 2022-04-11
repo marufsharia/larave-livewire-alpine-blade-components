@@ -11,7 +11,7 @@ Simple Multiselect component powered by Blade Components and Choices.js.
 
 [Choices.js - a lightweight, configurable select box/text input plugin.](https://joshuajohnson.co.uk/Choices/)
 
-![Multiselect](/assets/img/components/multiselect.png)
+![Multiselect](../assets/img/components/multiselect.png)
 
 ### Usage
 
