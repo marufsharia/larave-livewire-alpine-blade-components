@@ -9,7 +9,7 @@ section: content
 
 Confirm Dialog powered by ALpineJS and Laravel Blade View Components.
 
-![Confirm Dialog](/assets/img/components/confirm.png)
+![Confirm Dialog](../assets/img/components/confirm.png)
 
 ### Usage
 
